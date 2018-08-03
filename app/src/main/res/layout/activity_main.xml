@@ -22,13 +22,12 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="184dp"
-        android:scaleType="center"
-        android:src="@drawable/ic_header_profilelike" />
+        android:src="@drawable/ic_header_notice" />
 
 
     <Button
